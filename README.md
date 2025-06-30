@@ -113,19 +113,7 @@ O Singleton é útil quando precisamos de **controle total sobre uma instância 
 
 ## 📽️ Apresentação do Projeto
 
-- [Inserir aqui o link para o vídeo da apresentação no YouTube ou Google Drive]
-
----
-
-## 💻 Códigos no Repositório
-
-Todos os exemplos estão incluídos neste README por fins didáticos. Para rodar localmente:
-
-```bash
-ts-node singleton.ts
-```
-
----
+- 
 
 ## 📚 Referências
 
